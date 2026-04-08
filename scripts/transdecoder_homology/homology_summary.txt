@@ -1,0 +1,5 @@
+Metric	Count
+Total predicted ORFs	327895
+ORFs with Pfam hit	151258
+ORFs with BLAST hit	110426
+ORFs with Pfam AND BLAST hit	105854

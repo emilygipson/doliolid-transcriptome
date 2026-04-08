@@ -1,0 +1,11 @@
+### Original assembly stats:
+file                                                                                              format  type  num_seqs      sum_len  min_len  avg_len  max_len
+/scratch/eeg37520/Sept2025_Trinity/9.22.25_TranscriptAssembly_downstream/4samp_trinity_out.fasta  FASTA   DNA    901,607  553,745,615      168    614.2   98,349
+
+### Contaminants stats:
+file                format  type  num_seqs     sum_len  min_len  avg_len  max_len
+contaminants.fasta  FASTA   DNA    165,387  50,038,002      184    302.6   17,283
+
+### Cleaned assembly stats:
+file                       format  type  num_seqs      sum_len  min_len  avg_len  max_len
+cleaned_transcripts.fasta  FASTA   DNA    736,220  503,707,613      168    684.2   98,349

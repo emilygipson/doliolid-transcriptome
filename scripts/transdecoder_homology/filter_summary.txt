@@ -1,0 +1,5 @@
+Summary BEFORE clustering:
+Total high-confidence proteins: 
+Summary AFTER clustering:
+Clustered proteins: 123633
+Matching CDS: 123633

@@ -1,0 +1,10 @@
+Generating sequence count summary...
+----------------------------------------
+Protein FASTA counts:
+Original proteins: 0
+Non-redundant proteins: 130643
+
+CDS FASTA counts:
+Original CDS: 192779
+Non-redundant CDS: 130643
+----------------------------------------
