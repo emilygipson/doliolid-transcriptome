@@ -33,4 +33,4 @@ doliolid-transcriptome/
 | BLAST+ | Homology support |
 | PfamScan | Protein domain identification |
 | CD-HIT | Sequence redundancy reduction |
-| R | Statistical analysis and visualization |
+
